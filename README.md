@@ -6,7 +6,7 @@ Name: 罗拉
 ---
 
 
-Email: [lorassl12@gmail.com]
+Email: lorassl12@gmail.com
 ---
 
 
