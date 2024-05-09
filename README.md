@@ -2,7 +2,7 @@
 My Personal Website
 ---
 
-Name: [罗拉]
+Name: 罗拉
 ---
 
 
@@ -10,16 +10,16 @@ Email: [lorassl12@gmail.com](mailto:your-email@example.com)
 ---
 
 
-Date: 2024-05-08
+Date: 2004-05-30
 ---
 
 # Welcome to My Personal Website
 
-Hi there! I'm 罗拉, a [your profession or title] based in [your location]. I'm passionate about [your interests] and I'm always eager to learn new things.
+Hi there! I'm 罗拉, a human resource based in the team. I'm passionate about design and I'm always eager to learn new things.
 
 ## About Me
 
-I'm a [brief description of yourself or your work]. I have a strong interest in [your interests] and I'm always looking for ways to [your goals]. I'm also a big fan of [your hobbies or passions].
+I'm a student. I have a strong interest in design and I'm always looking for ways to [your goals]. I'm also a big fan of cat.
 
 ## My Skills
 
@@ -31,11 +31,11 @@ I have a variety of skills that I can bring to the table, including:
 
 I'm always working on new projects, including:
 
-* [List of your projects]
+* [listening music，touch cats and dogs and go to the concert.]
 
 ## Contact Me
 
-If you're interested in learning more about me or my work, please feel free to contact me at [your email address].
+If you're interested in learning more about me or my work, please feel free to contact me at [lorassl12@gmail.com].
 
 ## Social Media
 
